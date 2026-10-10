@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Alphabet Adventure – Kids Phonics",
+  "short_name": "Alphabet Adventure",
+  "description": "An offline-friendly alphabet and phonics game for kids.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8ed",
+  "theme_color": "#7758d8",
+  "categories": ["education", "games"],
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
